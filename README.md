@@ -1,5 +1,7 @@
 The contents in this directory represent the work of:
+
 Lab Member 001: Jerry Feng
+
 Lab Member 002: John Li
 
 ... in the class:
